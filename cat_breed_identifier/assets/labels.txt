@@ -1,0 +1,7 @@
+0 Abyssinian
+1 American Curl
+2 Devon Rex
+3 Persian
+4 Ragdoll
+5 Siamese
+6 Turkish Angora
